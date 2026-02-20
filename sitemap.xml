@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mayuqi-crypto.github.io/2026/02/20/apple-meta-ar-battle/</loc>
+    
+    <lastmod>2026-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/2026/02/20/tesla-cybertruck-2026/</loc>
+    
+    <lastmod>2026-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/2026/02/20/meta-smart-glasses-2026/</loc>
+    
+    <lastmod>2026-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mayuqi-crypto.github.io/2026/02/20/Microsoft-Copilot-Agents/</loc>
     
     <lastmod>2026-02-20</lastmod>
@@ -512,6 +539,55 @@
   
   <url>
     <loc>https://mayuqi-crypto.github.io/tags/AI%E7%AE%97%E5%8A%9B/</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/tags/Apple/</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/tags/Meta/</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/tags/AR/</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/tags/%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C/</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/tags/Tesla/</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/tags/Cybertruck/</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/tags/%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6/</loc>
     <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
