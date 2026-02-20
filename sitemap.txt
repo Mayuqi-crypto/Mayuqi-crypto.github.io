@@ -1,3 +1,11 @@
+https://mayuqi-crypto.github.io/2026/02/20/ai-api-economy-trends/
+https://mayuqi-crypto.github.io/2026/02/20/ai-hardware-gpu-revolution-2026/
+https://mayuqi-crypto.github.io/2026/02/20/autonomous-ai-agents-future/
+https://mayuqi-crypto.github.io/2026/02/20/openai-o4-mini-technical-deep-dive/
+https://mayuqi-crypto.github.io/2026/02/20/deepseek-v3-model-performance/
+https://mayuqi-crypto.github.io/2026/02/20/google-gemini-2-5-pro-analysis/
+https://mayuqi-crypto.github.io/2026/02/20/ai-coding-war-claude-vs-gpt/
+https://mayuqi-crypto.github.io/2026/02/20/microsoft-copilot-agents/
 https://mayuqi-crypto.github.io/2026/02/20/apple-meta-ar-battle/
 https://mayuqi-crypto.github.io/2026/02/20/tesla-cybertruck-2026/
 https://mayuqi-crypto.github.io/2026/02/20/meta-smart-glasses-2026/
@@ -74,6 +82,9 @@ https://mayuqi-crypto.github.io/tags/%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C/
 https://mayuqi-crypto.github.io/tags/Tesla/
 https://mayuqi-crypto.github.io/tags/Cybertruck/
 https://mayuqi-crypto.github.io/tags/%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6/
+https://mayuqi-crypto.github.io/tags/%E6%8A%80%E6%9C%AF/
+https://mayuqi-crypto.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90/
+https://mayuqi-crypto.github.io/tags/%E8%B6%8B%E5%8A%BF/
 https://mayuqi-crypto.github.io/categories/AI%E5%89%8D%E6%B2%BF/
 https://mayuqi-crypto.github.io/categories/%E5%88%9B%E4%B8%9A%E6%8C%87%E5%8D%97/
 https://mayuqi-crypto.github.io/categories/AI%E6%96%B0%E9%97%BB/
@@ -82,3 +93,4 @@ https://mayuqi-crypto.github.io/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/
 https://mayuqi-crypto.github.io/categories/AI%E6%95%99%E7%A8%8B/
 https://mayuqi-crypto.github.io/categories/AI%E8%B6%8B%E5%8A%BF/
 https://mayuqi-crypto.github.io/categories/AI%E7%A1%AC%E4%BB%B6/
+https://mayuqi-crypto.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/
