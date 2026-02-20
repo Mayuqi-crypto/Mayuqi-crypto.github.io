@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mayuqi-crypto.github.io/2026/02/20/Git---------------/</loc>
+    
+    <lastmod>2026-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/2026/02/20/Keep-Android-Open----------/</loc>
+    
+    <lastmod>2026-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/2026/02/20/Ggml-ai--Hugging-Face---AI----/</loc>
+    
+    <lastmod>2026-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mayuqi-crypto.github.io/2026/02/20/ai-agents-workflow-2026/</loc>
     
     <lastmod>2026-02-20</lastmod>
@@ -899,6 +926,27 @@
   
   <url>
     <loc>https://mayuqi-crypto.github.io/categories/%E7%A7%91%E6%8A%80%E5%89%8D%E6%B2%BF/</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/categories/AI%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/categories/%E5%BC%80%E5%8F%91%E6%8A%80%E5%B7%A7/</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/categories/%E5%BC%80%E6%BA%90%E5%8A%A8%E6%80%81/</loc>
     <lastmod>2026-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
