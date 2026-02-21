@@ -1,3 +1,6 @@
+https://mayuqi-crypto.github.io/2026/02/21/gpt5-rumors/
+https://mayuqi-crypto.github.io/2026/02/21/ai-agent-startups-2026/
+https://mayuqi-crypto.github.io/2026/02/21/hn-karpathy-claws/
 https://mayuqi-crypto.github.io/2026/02/21/ai-enterprise-adoption-2025/
 https://mayuqi-crypto.github.io/2026/02/21/microsoft-agents-2025/
 https://mayuqi-crypto.github.io/2026/02/21/ai-coding-war-2025/
@@ -128,6 +131,7 @@ https://mayuqi-crypto.github.io/tags/%E4%BC%81%E4%B8%9A/
 https://mayuqi-crypto.github.io/tags/%E9%87%87%E7%94%A8%E8%B6%8B%E5%8A%BF/
 https://mayuqi-crypto.github.io/tags/Microsoft/
 https://mayuqi-crypto.github.io/tags/Copilot/
+https://mayuqi-crypto.github.io/tags/Karpathy/
 https://mayuqi-crypto.github.io/categories/AI/
 https://mayuqi-crypto.github.io/categories/%E5%88%9B%E4%B8%9A%E6%8C%87%E5%8D%97/
 https://mayuqi-crypto.github.io/categories/AI%E5%89%8D%E6%B2%BF/

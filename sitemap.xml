@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mayuqi-crypto.github.io/2026/02/21/gpt5-rumors/</loc>
+    
+    <lastmod>2026-02-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/2026/02/21/ai-agent-startups-2026/</loc>
+    
+    <lastmod>2026-02-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/2026/02/21/hn-karpathy-claws/</loc>
+    
+    <lastmod>2026-02-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mayuqi-crypto.github.io/2026/02/21/ai-enterprise-adoption-2025/</loc>
     
     <lastmod>2026-02-21</lastmod>
@@ -1032,6 +1059,13 @@
   
   <url>
     <loc>https://mayuqi-crypto.github.io/tags/Copilot/</loc>
+    <lastmod>2026-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/tags/Karpathy/</loc>
     <lastmod>2026-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
