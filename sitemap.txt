@@ -1,3 +1,6 @@
+https://mayuqi-crypto.github.io/2026/02/21/ai-agent-workflow-0221-1349/
+https://mayuqi-crypto.github.io/2026/02/21/ai-edge-deployment-0221-1349/
+https://mayuqi-crypto.github.io/2026/02/21/ai-deepseek-v3-0221-1349/
 https://mayuqi-crypto.github.io/2026/02/21/1771678194886-1/
 https://mayuqi-crypto.github.io/2026/02/21/1771678194887-2/
 https://mayuqi-crypto.github.io/2026/02/21/1771678194876-0/
@@ -136,6 +139,11 @@ https://mayuqi-crypto.github.io/tags/Microsoft/
 https://mayuqi-crypto.github.io/tags/Copilot/
 https://mayuqi-crypto.github.io/tags/Karpathy/
 https://mayuqi-crypto.github.io/tags/%E6%96%B0%E9%97%BB/
+https://mayuqi-crypto.github.io/tags/DeepSeek/
+https://mayuqi-crypto.github.io/tags/%E5%BC%80%E6%BA%90AI/
+https://mayuqi-crypto.github.io/tags/%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97/
+https://mayuqi-crypto.github.io/tags/%E7%AB%AF%E4%BE%A7AI/
+https://mayuqi-crypto.github.io/tags/IoT/
 https://mayuqi-crypto.github.io/categories/AI/
 https://mayuqi-crypto.github.io/categories/%E5%88%9B%E4%B8%9A%E6%8C%87%E5%8D%97/
 https://mayuqi-crypto.github.io/categories/AI%E5%89%8D%E6%B2%BF/
@@ -155,3 +163,5 @@ https://mayuqi-crypto.github.io/categories/AI%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%9
 https://mayuqi-crypto.github.io/categories/%E7%A7%91%E6%8A%80%E5%89%8D%E6%B2%BF/
 https://mayuqi-crypto.github.io/categories/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB/
 https://mayuqi-crypto.github.io/categories/%E7%A7%91%E6%8A%80%E8%B6%8B%E5%8A%BF/
+https://mayuqi-crypto.github.io/categories/AI%E5%BA%94%E7%94%A8/
+https://mayuqi-crypto.github.io/categories/AI%E6%8A%80%E6%9C%AF/

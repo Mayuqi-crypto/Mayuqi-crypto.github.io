@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mayuqi-crypto.github.io/2026/02/21/ai-agent-workflow-0221-1349/</loc>
+    
+    <lastmod>2026-02-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/2026/02/21/ai-edge-deployment-0221-1349/</loc>
+    
+    <lastmod>2026-02-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/2026/02/21/ai-deepseek-v3-0221-1349/</loc>
+    
+    <lastmod>2026-02-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mayuqi-crypto.github.io/2026/02/21/1771678194886-1/</loc>
     
     <lastmod>2026-02-21</lastmod>
@@ -1105,6 +1132,41 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://mayuqi-crypto.github.io/tags/DeepSeek/</loc>
+    <lastmod>2026-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/tags/%E5%BC%80%E6%BA%90AI/</loc>
+    <lastmod>2026-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/tags/%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97/</loc>
+    <lastmod>2026-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/tags/%E7%AB%AF%E4%BE%A7AI/</loc>
+    <lastmod>2026-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/tags/IoT/</loc>
+    <lastmod>2026-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -1235,6 +1297,20 @@
   
   <url>
     <loc>https://mayuqi-crypto.github.io/categories/%E7%A7%91%E6%8A%80%E8%B6%8B%E5%8A%BF/</loc>
+    <lastmod>2026-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/categories/AI%E5%BA%94%E7%94%A8/</loc>
+    <lastmod>2026-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mayuqi-crypto.github.io/categories/AI%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2026-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
